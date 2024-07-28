@@ -6,6 +6,7 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   //in firebase when we create the app just cpy paste from there
+  //add your secret key
 };
 
 // Initialize Firebase
