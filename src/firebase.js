@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  //in firebase
+  //in firebase when we create the app just cpy paste from there
 };
 
 // Initialize Firebase
